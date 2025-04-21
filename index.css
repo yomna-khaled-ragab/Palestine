@@ -29,6 +29,9 @@ h2{
   color: #261511;
   margin: auto;
 }
+.logo{
+  border-radius: 50%;
+}
 .info{
   display: flex;
   flex-direction: column;
